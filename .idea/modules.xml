@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Maven.iml" filepath="$PROJECT_DIR$/Maven.iml" />
-      <module fileurl="file://$PROJECT_DIR$/comparatorSort/mavenProject-comparatorSort.iml" filepath="$PROJECT_DIR$/comparatorSort/mavenProject-comparatorSort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shapes/mavenProject-shapes.iml" filepath="$PROJECT_DIR$/shapes/mavenProject-shapes.iml" />
     </modules>
   </component>
 </project>

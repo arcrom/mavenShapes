@@ -1,4 +1,4 @@
-package com.example.comparatorSort;
+package com.example;
 import com.example.Shape;
 
 import java.util.Comparator;

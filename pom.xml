@@ -25,9 +25,4 @@
             <version>0.0.1</version>
         </dependency>
     </dependencies>
-
-    <modules>
-        <module>./shapes</module>
-        <module>./comparatorSort</module>
-    </modules>
 </project>

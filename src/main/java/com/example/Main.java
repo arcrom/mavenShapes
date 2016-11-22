@@ -1,8 +1,5 @@
 package com.example;
 
-import com.example.comparatorSort.SortToMaxArea;
-import com.example.comparatorSort.SortToMaxPerimeter;
-
 import java.util.*;
 
 public class Main {

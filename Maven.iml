@@ -13,7 +13,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="mavenProject-shapes" />
-    <orderEntry type="module" module-name="mavenProject-comparatorSort" />
+    <orderEntry type="library" name="Maven: com.example:mavenProject-shapes:0.0.1" level="project" />
+    <orderEntry type="library" name="Maven: com.example:mavenProject-comparatorSort:0.0.1" level="project" />
   </component>
 </module>
